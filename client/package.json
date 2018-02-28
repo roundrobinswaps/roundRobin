@@ -1,0 +1,32 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "react": "^16.1.1",
+    "react-bs-notifier": "^4.4.5",
+    "react-country-region-selector": "^1.2.3",
+    "react-dom": "^16.1.1",
+    "react-facebook": "^4.1.1",
+    "react-facebook-auth": "^1.1.0",
+    "react-facebook-login": "^3.7.2",
+    "react-facebook-login-component": "^0.9.1",
+    "react-modal": "^3.1.7",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-toggle": "^4.0.2",
+    "redux": "^3.7.2",
+    "redux-form": "^7.2.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001"
+}
